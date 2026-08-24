@@ -1,6 +1,6 @@
 # Changelog
 
-### [Unreleased]
+### [3.0.11] - 2026/08/24
 
 - Fix `MissingIndexFindByChecker` false positives for lookups by the leading column of a composite primary key. Thanks [Eito Katagiri](https://github.com/eito-katagiri-LITALICO) for reporting and fixing this!
 
